@@ -19,7 +19,7 @@ title: Jesse Tingle # the main title
 tagline: A SWE Blogger # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  I'm a software engineer documenting my journey into tech, sharing all the ups, downs, and everything in between. Join me as I navigate this exciting field—let's learn, celebrate wins, and tackle challenges together. I’d love to hear your thoughts, frustrations, and excitement along the way!
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -42,7 +42,7 @@ social:
     - https://github.com/Jesse-Tingle # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/jesse-tingle
 
 # Site Verification Settings
 webmaster_verifications:
