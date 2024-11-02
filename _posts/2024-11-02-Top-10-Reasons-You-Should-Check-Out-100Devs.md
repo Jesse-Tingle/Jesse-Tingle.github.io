@@ -1,6 +1,6 @@
 ---
 title: "Top 10 Reasons You Should Check Out 100Devs"
-date: 2024-11-01
+date: 2024-11-02
 categories: [Resources, Review]
 tags: [Top 10, Resources, Beginner, Coding, Learning To Code, 100Devs, Bootcamp, Review]
 ---
