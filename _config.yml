@@ -13,6 +13,8 @@ timezone: America/Indiana/Indianapolis
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
+plugins:
+  - jekyll-seo-tag
 
 title: Jesse Tingle # the main title
 
