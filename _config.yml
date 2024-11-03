@@ -32,6 +32,7 @@ github:
 
 twitter:
   username: jessetingle # change to your Twitter username
+  card_type: "summary_large_image"
 
 social:
   # Change to your full name.
