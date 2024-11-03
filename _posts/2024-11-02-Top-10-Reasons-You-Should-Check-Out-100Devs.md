@@ -3,8 +3,8 @@ title: "Top 10 Reasons You Should Check Out 100Devs"
 date: 2024-11-02
 categories: [Resources, Review]
 tags: [Top 10, Resources, Beginner, Coding, Learning To Code, 100Devs, Bootcamp, Review]
+image: ../assets/img/100Devs-logo.png
 ---
-![100Devs logo, inside a hexagon open angle bracket, forward slash, closing angle bracket on a blue background](../assets/img/100Devs-logo.png)
 
 When I embarked on my coding journey, I found myself stuck in what many refer to as "tutorial hell." While I could follow along with instructions, applying that knowledge to new projects was a challenge. I learned that relying too much on tutorials can hinder your ability to code independently. In this post, I want to highlight the top 10 reasons to explore [100Devs](https://leonnoel.com/100devs/)—a program that provides a structured, progressive learning experience and encourages self-reliance in problem-solving. If you're just starting out, [100Devs](https://leonnoel.com/100devs/) can help you escape the tutorial cycle and gain the confidence to build your own projects.
 
